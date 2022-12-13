@@ -91,17 +91,33 @@ const config = {
             title: 'Papers',
             items: [
               {
-                label: 'Paper on OG Ray Tracing',
+                label: 'Introduction',
                 href: 'https://www.cs.drexel.edu/~david/Classes/Papers/p343-whitted.pdf',
               },
               {
-                label: 'Path Tracing - Rendering Equation',
+                label: 'Path Tracing',
                 href: 'https://www.cse.chalmers.se/edu/year/2011/course/TDA361/2007/rend_eq.pdf',
+              },
+              {
+                label: 'BiDirectional Path Tracing',
+                href: 'https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach94.pdf ',
               },
               {
                 label: 'MLT Main Reference',
                 href: 'https://graphics.stanford.edu/papers/metro/metro.pdf',
               },
+              {
+                label: 'MLT - Multiple Importance Sampling',
+                href: 'https://dl.acm.org/doi/pdf/10.1145/218380.218498',
+              },
+              {
+                label: 'MLT - Primary Sample Space',
+                href: 'https://www.researchgate.net/publication/220507359_A_Simple_and_Robust_Mutation_Strategy_for_the_Metropolis_Light_Transport_Algorithm ',
+              },
+              {
+                label: 'MLT - Multiplexed',
+                href: 'https://cs.uwaterloo.ca/~thachisu/mmlt.pdf'
+              }
             ],
           },
           {
