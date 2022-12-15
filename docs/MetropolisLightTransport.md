@@ -3,10 +3,6 @@ sidebar_label: 'Metropolis Light Transport'
 sidebar_position: 3
 ---
 
-## Monte Carlo methods
-These are a set of computational algorithms relying on random sampling to get numerical results. The Monte Carlo methods find their use primarily in problems inolving probabilistic interpretation. A notable thing regarding these is that the computational cost associated with the monte carlo simulation can be unexpectedly high.
-
-
 ## Markov Chain
 This is a model comprising of objects usually defined as a family of random variables, describing a sequence of possible events in which probability of next event depends solely on that of the current state. To avoid any process termination, we assume that all possible states and the nodes in transition matrix are included in definition of the process itself.
 Markovian processes are the basis for simulation methods called *Markov Chain Monte Carlo*
