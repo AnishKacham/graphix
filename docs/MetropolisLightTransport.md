@@ -16,4 +16,4 @@ The algorithm can draw samples from a distribution with probability density $P(x
 At each iteration, a candidate is picked for the next random value based on current state. This is either accepted or rejected with some probability threshold, with the current value being passed on for later iterations in latter case.  
 
 Here is an image using the MLT algorithm we have implemented (10 mutations per pixel):  
-![alt text for screen readers](./mlt_10_mutations.jpeg "mlt with 10 mutations")
+![alt text for screen readers](./mlt_10_mutations.jpeg "mlt with 10 mutations per pixel")
