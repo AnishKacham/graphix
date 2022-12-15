@@ -13,7 +13,7 @@ These are a set of computational algorithms relying on random sampling to get nu
 Path tracing was the first general-purpose unbiased Monte Carlo light transport algorithm used in graphics. It was introduced as an algorithm to find a numerical solution to the integral of the rendering equation.  
 Path tracing incrementally generates paths of scattering events starting at the camera and ending at light sources in the scene. Repeated sampling of any given pixel eventually causes the average of the samples to converge on the correct solution of the rendering equation.  
   
-Here is an image using the path tracing we have implemented (10 samples per pixel):
+Here is an image using the Path Tracing algorithm we have implemented (10 samples per pixel):
 ![alt text for screen readers](./path_tracing_10_samples.jpeg "Path Tracing with 10 Samples")
 
 
