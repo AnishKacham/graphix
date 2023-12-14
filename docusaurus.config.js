@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  url: 'https://graphix.github.io', // Your website URL
-  baseUrl: '/',
+  url: 'https://anishkacham.github.io/', // Your website URL
+  baseUrl: '/graphix/',
   // projectName: 'graphix.github.io',
   // organizationName: 'BITS-Hyderabad',
   trailingSlash: false,
