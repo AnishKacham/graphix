@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraphix=self.webpackChunkgraphix||[]).push([[173],{137:a=>{a.exports=JSON.parse('{"permalink":"/graphix/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

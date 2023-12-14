@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraphix=self.webpackChunkgraphix||[]).push([[515],{2819:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/graphix/blog/tags/hello","allTagsPath":"/graphix/blog/tags","count":2}')}}]);

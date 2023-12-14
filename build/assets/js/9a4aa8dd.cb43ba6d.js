@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraphix=self.webpackChunkgraphix||[]).push([[307],{750:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/graphix/blog/tags/facebook","allTagsPath":"/graphix/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraphix=self.webpackChunkgraphix||[]).push([[74],{1712:a=>{a.exports=JSON.parse('{"permalink":"/graphix/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
