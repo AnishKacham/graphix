@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   url: 'https://anishkacham.github.io/', // Your website URL
-  baseUrl: '/graphix/',
+  baseUrl: '/',
   // projectName: 'graphix.github.io',
   // organizationName: 'BITS-Hyderabad',
   trailingSlash: false,
